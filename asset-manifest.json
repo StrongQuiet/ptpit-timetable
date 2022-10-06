@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ptpit-timetable/static/css/main.ff7f8ea2.css",
-    "main.js": "/ptpit-timetable/static/js/main.89d491fb.js",
+    "main.css": "/ptpit-timetable/static/css/main.3cf58a5c.css",
+    "main.js": "/ptpit-timetable/static/js/main.2bf54a01.js",
     "static/media/Roboto-Regular.ttf": "/ptpit-timetable/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
     "index.html": "/ptpit-timetable/index.html",
-    "main.ff7f8ea2.css.map": "/ptpit-timetable/static/css/main.ff7f8ea2.css.map",
-    "main.89d491fb.js.map": "/ptpit-timetable/static/js/main.89d491fb.js.map"
+    "main.3cf58a5c.css.map": "/ptpit-timetable/static/css/main.3cf58a5c.css.map",
+    "main.2bf54a01.js.map": "/ptpit-timetable/static/js/main.2bf54a01.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff7f8ea2.css",
-    "static/js/main.89d491fb.js"
+    "static/css/main.3cf58a5c.css",
+    "static/js/main.2bf54a01.js"
   ]
 }
